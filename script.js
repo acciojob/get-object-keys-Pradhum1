@@ -1,10 +1,11 @@
 //your JS code here. If required.
 let student = {
-	name:"prince"
-	
+	name: "prince"
 };
-object.prototype.getkeys=function(){
-	return object.keys;
+
+Object.prototype.getKeys = function() {
+	return Object.keys(this);
 };
-let keys = student.getkeys();
+
+let keys = student.getKeys();
 console.log(keys);
