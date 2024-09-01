@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 let obj = {
-	name:"prince";
+	name:"prince"
 	
 };
 object.prototype.getkeys=function(){
