@@ -1,10 +1,1 @@
 /*  your css code here. If applicable */
-let student = {
-	name:"prince"
-	
-};
-object.prototype.getkeys=function(){
-	return object.keys;
-};
-let keys = student.getkeys();
-console.log(keys);
